@@ -7,7 +7,7 @@ Desafio de projeto sobre Git/Github
 
 [Acesso ao git](https://git-scm.com/download/win)
 
-[DIO}(https://www.dio.me/)
+[site da DIO](https://www.dio.me/)
 
 
 
